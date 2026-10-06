@@ -46,3 +46,25 @@ A csapattagok a saját területük fejlesztése mellett **együttműködnek a pr
 
 # A projekt bemutatása
 Ez a projektterv az Edzésnapló projektet mutatja be, amelynek célja egy olyan rendszer megvalósítása, amely lehetővé teszi **a felhasználók számára edzéseik rögzítését**, **kezelését** és **korábbi edzéseik áttekintését.** A projekten **három fejlesztő fog dolgozni,** az elkészült funkciókat pedig **a félév során négy alkalommal fogjuk bemutatni a megrendelőnek,** ezzel biztosítva a projekt folyamatos előrehaladását és a követelményeknek való megfelelést.
+
+
+# Funkcionális követelmények
+
+- **Felhasználók kezelése**
+- **Felhasználói bejelentkezés és kijelentkezés**
+- **Edzések kezelése**
+- **Gyakorlatok kezelése**
+- **Edzéshez tartozó gyakorlatok kezelése**
+- **Sorozatok, ismétlésszám és használt súly rögzítése**
+- **Korábbi edzések megtekintése**
+- **Edzések keresése és szűrése**
+- **Edzésadatok statisztikai megjelenítése**
+
+# Nem funkcionális követelmények
+
+- **A rendszer működjön a leggyakrabban használt modern böngészőkben**
+- **A felhasználói felület legyen reszponzív, és különböző képernyőméretekhez alkalmazkodjon**
+- **A felhasználói adatok biztonságos módon legyenek tárolva**
+- **A rendszer felülete legyen egyszerűen és könnyen kezelhető**
+- **A rendszer válaszideje legyen megfelelő a felhasználói műveletek során**
+- **A rendszer használata során a hibás adatok megadására megfelelő hibaüzenet jelenjen meg**
